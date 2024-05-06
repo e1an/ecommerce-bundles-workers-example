@@ -10,7 +10,7 @@ kv_namespaces = [
 ]
 
 [env.production]
-route = "https://yourwebsite.com/*"
+route = "https://cruxclimbing.co/*"
 zone_id = "ZONEID"
 vars = {CORS_HEADERS = "*", CORS_ORIGIN = "*"}
 kv_namespaces = [

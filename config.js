@@ -1,9 +1,9 @@
 export default {
   // The public-facing name of your store.
-  title: 'MYSTORE',
+  title: 'Crux Climbing Co.',
 
   // Short (1-2) sentence description of your store
-  description: "Exclusive, timed deals on our favorite stuff.",
+  description: "Example description",
 
   // A contact email used to contact the site admin (used in InfoPanel.vue)
   email: "your@email.com",
@@ -23,7 +23,7 @@ export default {
 
   // The production URL for your store. This should match what you put as your zone in
   // wrangler.toml
-  url: 'https://yoururl.com',
+  url: 'https://cruxclimbing.co',
 
   // Optional analytics provided by Fathom.
   fathom: {
